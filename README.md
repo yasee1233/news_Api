@@ -1,0 +1,1 @@
+In this code, I used  A News API App is a mobile or web application  that fetches and displays real-time news articles from an external API (like NewsAPI.org, GNews, or custom backend). It allows users to stay updated with the latest headlines, categorized stories, and even search for specific topics.
